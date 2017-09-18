@@ -21,7 +21,7 @@ menu:
   Archives: /archives/
   # Tags: /tags
   # Categories: /categories
-  # About: /about
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -29,9 +29,9 @@ menu:
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
-  toc: false
-  fancybox: false
+  color: Cobalt Blue
+  toc: true
+  fancybox: true
 
 copyright:
   enable: true
@@ -39,28 +39,28 @@ copyright:
   license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
 
 reward:
-  enable: false
+  enable: true
   qrCode:
-    wechat:
+    wechat: /images/collect_qrcode_1505745819720.jpg
     alipay:
 
 # ===========================================
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: itabas016@gmail.com
   stack-overflow:
-  twitter:
-  facebook:
+  twitter: https://www.twitter.com/itabas16
+  facebook: https://www.facebook.com/itabas16
   linkedin:
-  google:
-  github:
-  weibo:
+  google: https://plus.google.com/116700701007878295597/
+  github: https://github.com/itabas016
+  weibo: http://weibo.com/struthio
   zhihu:
   douban:
   pocket:
   tumblr:
-  instagram:
+  instagram: https://www.instagram.com/itabas016/
 
 # ===========================================
 # Third Party Services Settings
@@ -68,21 +68,21 @@ social:
 
 # LeanCloud
 leancloud:
-  app_id:
-  app_key:
+  app_id: CoEy126Hk5NBPaVCgahS7P0p-gzGzoHsz
+  app_key: Sd1OLyWqAE53kPjgBvFXuaCJ
 
 # Baidu Analytics
-baidu_analytics:
+baidu_analytics: 55dddc0bcf5586602b667550911fde04
 # Baidu Verification
 baidu_verification:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-50282295-4
 # Google Verification
 google_verification:
 
 # Disqus
-disqus_shortname:
+disqus_shortname: itabas016
 
 #Changyan
 changyan:
