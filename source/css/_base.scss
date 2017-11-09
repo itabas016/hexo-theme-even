@@ -14,9 +14,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   line-height: $global-lineheight;
   color: $global-font-color;
-  background: $global-background;
+  background: #EEE;
   scroll-behavior: smooth;
-  border-top: 3px solid $theme-color;
+  border-top: 2px solid $theme-color;
 }
 
 @include max-screen() {
@@ -78,6 +78,8 @@ a {
 
 .content-wrapper {
   padding: $global-container-padding;
+  border: 1px solid #DDD;
+  box-shadow: 1px 0 5px rgba(0, 0, 0, .15);
 }
 
 // make video fluid:
