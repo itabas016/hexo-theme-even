@@ -21,6 +21,7 @@ menu:
   Archives: /archives/
   Tags: /tags
   # Categories: /categories
+  Wiki: http://wiki.itabas.com
   About: /about
 
 # ===========================================
@@ -48,7 +49,7 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: itabas016@gmail.com
+  email: me@itabas.com
   stack-overflow:
   twitter: https://www.twitter.com/itabas16
   facebook: https://www.facebook.com/itabas16
