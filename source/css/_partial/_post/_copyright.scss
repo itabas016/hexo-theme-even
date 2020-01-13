@@ -6,8 +6,15 @@
   .copyright-item {
     margin: 5px 0;
 
+    span {
+      font-weight: bold
+    }
+
     a {
       color: $theme-color;
+      &:hover {
+        text-decoration-line: underline
+      }
     }
   }
 }
