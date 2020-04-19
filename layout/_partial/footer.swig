@@ -25,4 +25,7 @@
     </span>
     <span class="author">{{ config.author }}</span>
   </span>
+  <span class="icp">
+    <a class="icp-link" href="http://www.beian.miit.gov.cn/">鲁ICP备19063268号-1</a>
+  </span>
 </div>
